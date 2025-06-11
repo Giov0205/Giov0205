@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+%7C+React%2BTS+Specialist;Passionate+about+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un desarrollador web apasionado por crear soluciones modernas, rápidas y escalables. Trabajo principalmente con React, TypeScript, Node.js y Express, y disfruto construir interfaces limpias y sistemas robustos.</h4>
+<h4 align="center">Soy un desarrollador web apasionado por crear soluciones modernas, rápidas y escalables. Trabajo principalmente con React, TypeScript, Node.js y Express, y disfruto construir interfaces limpias y sistemas robustas.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovannimedina&label=Profile%20views&color=0e75b6&style=plastic" alt="giovannimedina" /> </p>
 
@@ -27,7 +27,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/TablePlus-%23f47820.svg?logo=data:image/svg+xml;base64,&logoColor=white" alt="TablePlus">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
 ## 📈 GitHub Stats
@@ -35,11 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=giovannimedina&show_icons=true&theme=algolia" height="192px"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimedina&layout=compact&theme=algolia" height="192px"/>
-</p>
-
-## 🐍 Snake Game Contributions
-<p align="center">
-  <img src="https://github.com/giovannimedina/giovannimedina/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ## 📬 Contacto
