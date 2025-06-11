@@ -37,9 +37,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimedina&layout=compact&theme=algolia" height="192px"/>
 </p>
 
+## 🐍 Snake Game Contributions
+<p align="center">
+  <img src="https://github.com/giovannimedina/giovannimedina/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 📬 Contacto
 <p align="center">
-  <a href="mailto:giovanni@email.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
