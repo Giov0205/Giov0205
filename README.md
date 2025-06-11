@@ -1,61 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GitHub Profile</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    .fade-in {
-      animation: fadeIn 2s ease-in-out;
-    }
+<h1 align="center">Hola, soy Giovanni Medina Molina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+%7C+React%2BTS+Specialist;Passionate+about+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">Soy un desarrollador web apasionado por crear soluciones modernas, rápidas y escalables. Trabajo principalmente con React, TypeScript, Node.js y Express, y disfruto construir interfaces limpias y sistemas robustos.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=giovannimedina&label=Profile%20views&color=0e75b6&style=plastic" alt="giovannimedina" /> </p>
 
-    .slide-up {
-      animation: slideUp 1s ease-in-out;
-    }
+## 🚀 Tecnologías que uso
 
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
+### Lenguajes de programación
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
+</p>
 
-    @keyframes slideUp {
-      from { transform: translateY(20px); opacity: 0; }
-      to { transform: translateY(0); opacity: 1; }
-    }
-  </style>
-</head>
-<body class="bg-gray-900 text-white font-sans">
-  <div class="max-w-4xl mx-auto p-8">
-    <header class="text-center fade-in">
-      <h1 class="text-4xl font-bold mb-2">Hola, soy Giovanni Medina Molina 👋</h1>
-      <p class="text-lg text-gray-300">Desarrollador Web especializado en React, TypeScript y tecnologías modernas</p>
-    </header>
+### Desarrollo Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white">
+</p>
 
-    <section class="mt-10 slide-up">
-      <h2 class="text-2xl font-semibold mb-4 text-blue-400">🚀 Tecnologías que uso</h2>
-      <div class="grid grid-cols-2 md:grid-cols-3 gap-4 text-center">
-        <div class="bg-gray-800 p-4 rounded-lg">React</div>
-        <div class="bg-gray-800 p-4 rounded-lg">TypeScript</div>
-        <div class="bg-gray-800 p-4 rounded-lg">JavaScript</div>
-        <div class="bg-gray-800 p-4 rounded-lg">HTML5</div>
-        <div class="bg-gray-800 p-4 rounded-lg">Tailwind CSS</div>
-        <div class="bg-gray-800 p-4 rounded-lg">CSS3</div>
-        <div class="bg-gray-800 p-4 rounded-lg">Express.js</div>
-        <div class="bg-gray-800 p-4 rounded-lg">TablePlus</div>
-      </div>
-    </section>
+### Backend y Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/TablePlus-%23f47820.svg?logo=data:image/svg+xml;base64,&logoColor=white" alt="TablePlus">
+</p>
 
-    <section class="mt-10 slide-up">
-      <h2 class="text-2xl font-semibold mb-4 text-green-400">📈 Actualmente trabajando en:</h2>
-      <p class="text-gray-300">Desarrollo de aplicaciones fullstack con React + Express.js, usando bases de datos relacionales y estilizando con TailwindCSS.</p>
-    </section>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannimedina&show_icons=true&theme=algolia" height="192px"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimedina&layout=compact&theme=algolia" height="192px"/>
+</p>
 
-    <section class="mt-10 slide-up">
-      <h2 class="text-2xl font-semibold mb-4 text-yellow-400">📫 Cómo contactarme</h2>
-      <p class="text-gray-300">Puedes escribirme por correo: <a href="mailto:giovanni@email.com" class="text-blue-400 hover:underline">giovanni@email.com</a></p>
-      <p class="text-gray-300">O conectar conmigo en <a href="https://github.com/tu_usuario" class="text-blue-400 hover:underline">GitHub</a></p>
-    </section>
-  </div>
-</body>
-</html>
+## 📬 Contacto
+<p align="center">
+  <a href="mailto:giovanni@email.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+<hr/>
+
+<p align="center">
+  ✨ Gracias por visitar mi perfil ✨
+</p>
