@@ -3,19 +3,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer+%7C+React%2BTS+Specialist;Passionate+about+Web+Development;Always+Learning+New+Things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un desarrollador web apasionado por crear soluciones modernas, rápidas y escalables. Trabajo principalmente con React, TypeScript, Node.js y Express, y disfruto construir interfaces limpias y sistemas robustas.</h4>
+<h4 align="center">I'm a passionate web developer focused on creating modern, fast, and scalable solutions. I mainly work with React, TypeScript, Node.js, and Express, and I enjoy building clean interfaces and robust systems. I'm currently a student at Universidad Tecnológica de Cancún.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovannimedina&label=Profile%20views&color=0e75b6&style=plastic" alt="giovannimedina" /> </p>
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I Use
 
-### Lenguajes de programación
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
 </p>
 
-### Desarrollo Frontend
+### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white">
 </p>
 
-### Backend y Bases de Datos
+### Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white">
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimedina&layout=compact&theme=algolia" height="192px"/>
 </p>
 
-## 📬 Contacto
+## 📬 Contact
 <p align="center">
   <a href="https://github.com/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/giovannimedina"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -46,5 +46,5 @@
 <hr/>
 
 <p align="center">
-  ✨ Gracias por visitar mi perfil ✨
+  ✨ Thanks for visiting my profile ✨
 </p>
