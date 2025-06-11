@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giovannimedina&show_icons=true&theme=algolia" height="192px"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimedina&layout=compact&theme=algolia" height="192px"/>
 </p>
 
 ## 📬 Contact
