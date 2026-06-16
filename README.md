@@ -1,50 +1,19 @@
-<h1 align="center">Hola, soy Giovanni Medina Molina</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Fullstack+Developer+|+React+&+TypeScript;Building+Scalable+Solutions&center=true&width=500&height=50&font=Fira+Code&size=25">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&lines=GIOVANNI+MEDINA;%2F%2F+SYSTEM+OPERATOR;%2F%2F+FULLSTACK+ARCHITECT;%2F%2F+SECURITY+RESEARCHER" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/giovannimedina">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimedina&layout=compact&theme=tokyonight&hide_border=true&card_width=400" />
-  </a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=flat-square&logo=hackthebox&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=flat-square&logo=archlinux" />
+  <img src="https://img.shields.io/badge/ROLE-ENGINEER-FF003C?style=flat-square&logo=gnu" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
-<p align="justify">
-  Desarrollador Fullstack apasionado por la ingeniería de software y la ciberseguridad. Actualmente transformando café en código y arquitectura en <b>Universidad Tecnológica de Cancún</b>. Mi enfoque está en crear sistemas robustos, interfaces de alto rendimiento y soluciones que escalen.
-</p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,postgres,sqlserver,git,github,vscode" />
-  </a>
-</p>
-
----
-
-## 📊 Estadísticas que hablan
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannimedina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giovannimedina&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📬 Vamos a conectar
-<p align="center">
-  <a href="https://linkedin.com/in/giovannimedina">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giovannimedina&label=VISITAS&color=6610f2&style=flat-square" />
-</p>
+### 👾 SYSTEM_ACCESS.EXE
+```text
+> root@giovanni:~# cat bio.txt
+> Passionate about breaking systems to build them better. 
+> Specializing in high-performance Web Architectures & Security Audits.
+> Constant learner at UT Cancún. 
+> Always pushing the limits of the stack.
