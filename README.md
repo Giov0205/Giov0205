@@ -67,8 +67,16 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Giov0205&show_icons=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov0205&layout=compact&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages" width="410" height="195" />
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Giov0205&show_icons=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov0205&layout=compact&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages" width="410" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
