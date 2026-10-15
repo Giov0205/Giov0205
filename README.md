@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=giovannimedina&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=161b22" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Giov0205&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=161b22" alt="Profile views" />
 
 </div>
 
@@ -67,12 +67,12 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=giovannimedina&show_icons=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannimedina&layout=compact&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages" width="410" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=Giov0205&show_icons=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov0205&layout=compact&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages" width="410" height="195" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giovannimedina&hide_border=true&background=0d1117&stroke=30363d&ring=06B6D4&fire=0e75b6&currStreakNum=06B6D4&currStreakLabel=06B6D4&sideNums=c9d1d9&sideLabels=06B6D4&dates=8b949e" alt="GitHub Streak" width="820" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giov0205&hide_border=true&background=0d1117&stroke=30363d&ring=06B6D4&fire=0e75b6&currStreakNum=06B6D4&currStreakLabel=06B6D4&sideNums=c9d1d9&sideLabels=06B6D4&dates=8b949e" alt="GitHub Streak" width="820" />
 
 </div>
 
