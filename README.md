@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Giov0205&show_icons=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Giov0205&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&icon_color=0e75b6&text_color=c9d1d9&ring_color=06B6D4" alt="GitHub Stats" width="410" />
     </td>
     <td align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov0205&layout=compact&hide_border=true&card_width=410&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages" width="410" />
@@ -80,7 +80,9 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Giov0205&hide_border=true&background=0d1117&stroke=30363d&ring=06B6D4&fire=0e75b6&currStreakNum=06B6D4&currStreakLabel=06B6D4&sideNums=c9d1d9&sideLabels=06B6D4&dates=8b949e" alt="GitHub Streak" width="820" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=Giov0205&hide_border=true&background=0d1117&stroke=30363d&ring=06B6D4&fire=0e75b6&currStreakNum=06B6D4&currStreakLabel=06B6D4&sideNums=c9d1d9&sideLabels=06B6D4&dates=8b949e" alt="GitHub Streak" width="820" />
+</a>
 
 </div>
 
